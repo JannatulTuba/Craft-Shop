@@ -10,8 +10,6 @@ They can-</br>
 •	Place Order</br>
 •	Sign Out</br>
 
-<b>Programming Language:</b> PHP, JavaScript, HTML, CSS
-
 Use Case Diagram:</br></br>
 ![image](https://user-images.githubusercontent.com/57524635/132803895-4df90a14-c083-4647-a86f-04ed6d390101.png)</br></br></br>
 Activity Diagram:</br></br>
