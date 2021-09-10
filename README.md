@@ -1,4 +1,4 @@
-# Craft-Shop
+# Craft-Shop</br>
 CSE482 Project
 This is an E-commerce website that is based on Crafting. Nowadays, the popularity of Crafting is increasing day by day. Many people are spending their free time by making craft arts. Also many people are earning by selling handmade craft arts.</br>
 In Crafting, many equipment are not available everywhere so we’ll try to provide as many equipment as we can like paper craft, wooden craft etc. We’ll also sell kiddy crafts like paints, brushes, slimes etc. People can buy these equipment from our website.</br>
